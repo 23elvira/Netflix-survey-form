@@ -1,0 +1,50 @@
+
+*{margin: 0;
+ padding:0;
+ box-sizing: border-box;}
+
+body{background: url("./background_image.jpg");
+     color: white;}
+
+#container{background-color: rgba(0, 0, 0, 0.423);
+margin:30px;}
+
+header{text-align: center;padding:10px;}
+
+h1{font-family:"Bowlby One", sans-serif;
+font-size: 3rem;
+font-weight:300px;}
+
+span{color: red;}
+
+h3{font-family:"Sorts Mill Goudy", serif;
+font-style: italic;
+font-size: 1.20rem;}
+
+form{background-color: rgba(0, 0, 0, 0.61);
+     width: 30%;
+     margin: 20px auto 0;
+     padding: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif}
+
+label{line-height: 40px;
+     font-size: 1.2rem;}
+
+#movietype #gender{font-size: 0.5rem;}
+
+.inputformat{display:inline-block;
+width: 100%;
+height: 40px;}
+
+#feedback{height: 70px;}
+
+div{text-align: center;}
+
+#submit{font-size: 1.2rem;
+background-color: red;
+color: white;
+border-radius: 50px;
+padding: 10px 30px;
+border-style:none;
+margin-top: 10px;}
+
